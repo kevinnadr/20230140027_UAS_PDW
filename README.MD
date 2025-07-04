@@ -1,3 +1,2 @@
 HALAMAN LOGIN
-
-![alt text](image.png)
+[alt text](SCREENSHOOT/image.png)
